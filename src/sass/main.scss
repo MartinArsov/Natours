@@ -1,0 +1,8 @@
+@use "abstracts/" as *;
+@use "base/" as *;
+@use "components/" as *;
+@use "layout/" as *;
+@use "pages/" as *;
+
+//"copy:img": "copyfiles -u 1 ./src/img/**/* public",
+//"watch:img": "onchange \"/src/img/**/*\" -- npm run copy:html",
